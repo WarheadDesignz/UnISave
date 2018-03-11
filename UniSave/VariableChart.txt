@@ -1,0 +1,14 @@
+Variable Chart.
+So you can easily distinguish what is what when reading the save file.
+
+q: = Quaternion
+3: = Vector3
+2: = Vector2
+z: = RGBA (Color)
+b: = bool
+g: = GameObject
+t: = Transform
+i: = Int
+f: = Float
+d: = double
+s: = string

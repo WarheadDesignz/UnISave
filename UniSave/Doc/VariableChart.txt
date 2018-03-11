@@ -1,0 +1,26 @@
+Variable Chart.
+So you can easily distinguish what is what when reading the save file.
+
+
+// .NET Related Variables.
+5: = Int32 (regular int)
+4: = Int16
+6: = Int64
+7: = UInt16
+8: = UInt32
+9: = UInt64
+f: = Float
+d: = Double
+s: = String
+b: = Bool
+y: = Byte
+f: = SByte
+l: = Decimal
+
+// Unity Related Components
+q: = Quaternion
+3: = Vector3
+2: = Vector2
+z: = RGBA (Color)
+g: = GameObject
+t: = Transform
